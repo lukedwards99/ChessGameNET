@@ -1,0 +1,11 @@
+C:\Users\lukee\Documents\CSCI473Edwards\Project5Edwards_z1861935\bin\Debug\Project5Edwards_z1861935.exe.config
+C:\Users\lukee\Documents\CSCI473Edwards\Project5Edwards_z1861935\bin\Debug\Project5Edwards_z1861935.exe
+C:\Users\lukee\Documents\CSCI473Edwards\Project5Edwards_z1861935\bin\Debug\Project5Edwards_z1861935.pdb
+C:\Users\lukee\Documents\CSCI473Edwards\Project5Edwards_z1861935\obj\Debug\Project5Edwards_z1861935.csproj.AssemblyReference.cache
+C:\Users\lukee\Documents\CSCI473Edwards\Project5Edwards_z1861935\obj\Debug\Project5Edwards_z1861935.Form1.resources
+C:\Users\lukee\Documents\CSCI473Edwards\Project5Edwards_z1861935\obj\Debug\Project5Edwards_z1861935.Properties.Resources.resources
+C:\Users\lukee\Documents\CSCI473Edwards\Project5Edwards_z1861935\obj\Debug\Project5Edwards_z1861935.csproj.GenerateResource.cache
+C:\Users\lukee\Documents\CSCI473Edwards\Project5Edwards_z1861935\obj\Debug\Project5Edwards_z1861935.csproj.CoreCompileInputs.cache
+C:\Users\lukee\Documents\CSCI473Edwards\Project5Edwards_z1861935\obj\Debug\Project5Edwards_z1861935.exe
+C:\Users\lukee\Documents\CSCI473Edwards\Project5Edwards_z1861935\obj\Debug\Project5Edwards_z1861935.pdb
+C:\Users\lukee\Documents\CSCI473Edwards\Project5Edwards_z1861935\obj\Debug\Project5Edwards_z1861935.csproj.SuggestedBindingRedirects.cache
